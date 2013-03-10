@@ -38,6 +38,8 @@ db.put('foo', 'bar', function (err) {
 
 ### multileveled.server(db)
 
+Create a rpc server for the leveled instance `db`.
+
 Return a stream that is to be piped into client streams.
 
 ### var db = multileveled.client()
