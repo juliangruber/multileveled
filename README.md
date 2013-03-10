@@ -5,6 +5,8 @@ Expose a [leveled](https://github.com/juliangruber/node-leveled) db over the net
 
 Synchronous methods are not exposed.
 
+[![Build Status](https://travis-ci.org/juliangruber/multileveled.png?branch=master)](https://travis-ci.org/juliangruber/multileveled)
+
 ## Usage
 
 ```js
