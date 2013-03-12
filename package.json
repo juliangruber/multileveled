@@ -1,7 +1,7 @@
 {
   "name": "multileveled",
   "description": "Expose a leveled db over the network",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/juliangruber/multileveled.git"
@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "tap": "*",
-    "leveled": "~0.4.3"
+    "leveled": "~0.4.4"
   },
   "keywords": [
     "leveled,",
