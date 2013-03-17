@@ -22,10 +22,10 @@
     "leveled": "~0.4.4"
   },
   "keywords": [
-    "leveled,",
-    "leveldb,",
-    "stream,",
-    "network,",
+    "leveled",
+    "leveldb",
+    "stream",
+    "network",
     "rpc"
   ],
   "author": {
